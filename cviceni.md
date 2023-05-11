@@ -3,9 +3,11 @@
 
 ### 1 
 Vytvořte proměnnou "brambor_kvalita", do které postupně vložíte - "zelený", "špinavý" a "adekvátní"
+(nejdříve vložte např. "zelený", a spusťte podmínku, poté vložte např. "adekvátní" a spusťte podmínku)
 
 Napište přikaz podmínek, který vám adekvátně odpoví na kvalitu.
 Pokud je kvalita - "špinavý", vypište "Brambor omyjte"
+To dodělejte pro ostatní.
 
 ### 2 
 Vytvořte si náhodné proměnné zboží, a vpište do nich kolik ks jich je.
