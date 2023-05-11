@@ -14,3 +14,5 @@ Pod 30 ks "Příprava na doplnění".
 Nad 30 ks "Dostatek zboží"
 
 ### 3 
+Vytvořte si tři proměnné, do kterých vložíte 3 čísla.
+Vytvořte podmínku, která vám vypíše, které je nejmenší.
